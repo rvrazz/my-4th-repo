@@ -1,8 +1,11 @@
-h1{
+.vgt{
     color: darkslategray;
 }
+.nbv{
+    color: forestgreen;
+}
 h2{
-    color: green;
+    color: indigo;
 }
 p{
     color: lightsalmon;
